@@ -21,7 +21,7 @@ const NavBar = () => {
             Consultas
         </Nav.Link>
     </Nav>
-    <h6>Carrito      <CartWidget/></h6>
+    <h6>Carrito <CartWidget/> </h6>
     </Navbar.Collapse>
     </Container>
 </Navbar>
